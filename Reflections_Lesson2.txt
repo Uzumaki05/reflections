@@ -1,0 +1,13 @@
+Lesson 2 Reflections
+
+What happens when you initialise a repository? Why do you need to do it?
+
+- The system will be creating a .git file, which is a git repository that tracks file within that directory. This is to keep track our files
+
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+- The Staging area basically a place where we can combine files that were added from the working directory and can be stored in the repository by using git commit.
+- Working directory just basically stores files to be tracked. The only thing that it cannot do is, to make files to be in a grouped in a commit.
+- Repository just basically saves files added by the staging area, in a grouped commit or not.
+

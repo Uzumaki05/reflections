@@ -1,0 +1,71 @@
+
+Lesson 1:
+
+Version control
+
+1.) How did viewing a diff between two versions help you spot the bug?
+
+The diff command helped in such that it showed me the specific lines that were changed from the older version.
+
+Through this comparison I will be able to save time looking through the differences instead of the actual whole code to look for the error/s or typo
+
+2.) How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+This will prevent me from making too many files (different versions) of a program and it will help me save more time by allowing me to undo the changes that I made.
+Without this ‘undo’ property, I would probably start a program or a specific line over again.
+
+
+3.) Where to connect ‘Git diff’ in our concept map?
+
+Connect it with commit, because Git diff is a reasonable choice, and it operates on commits, so commit is probably the most closely related concept currently on the map.
+
+
+4.) What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google docs does?
+
+Pros
+Manual - the version history will not be cluttered unlike Automatic - which will be cluttered overtime
+
+Manual - You will be able to control the things you want to commit while the Automatic - will save every changes you make
+
+Manual - You will be able to avoid saving things you will soon delete unlike Automatic which saves everything you put in.
+
+Cons
+Manual - You will be deciding if the amount of content you changed is a good size to be considered as a commit while Automatic - do not have to think about the size of changes just save it
+
+5.) Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+Saving multiple files in one commit will be able to tell users that they are all related to each other, example files for a game. 
+
+While treating each file separately will give some confusion whether a file is really updated, needed or untouched at all.
+
+6.) How can you use the commands git log and git diff to view the history of files?
+
+Git log
+- I will be able to use this command, to look through different commits that was applied into a file
+
+- Through this list of commit IDs I can then go through the updated files and the previous versions of a file
+
+Git diff
+- After looking through the list of commit IDs, I can then use this command to help me look through the differences between files, which lines have been added or removed.
+
+- This command will also allow me to compare the updated file from the previous version of it.
+
+
+7. )How might using version control make you more confident to make changes that could break something?
+
+Version Control provides access to older and newer version of files. This feature will help me go back on my previous working files when a bug/error occurs. Through this, it will help me determine the source of the bug/error.
+
+Help me rethink of the parts that I could have improved and to explore without worrying about fixing problems.
+
+8.) Now that you have your workspace set up, what do you want to try using Git for?
+
+I would try to use Git when coding assignments in university
+I would also try to collaborate with some of my friends
+Try to make a simple program using git to get used to it and to have enough practice.
+
+
+
+
+
+
+
